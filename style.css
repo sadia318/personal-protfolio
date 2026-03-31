@@ -1,0 +1,244 @@
+nav{
+    display: flex;
+    gap:  400px;
+    height: 96px;
+    background-color: white;
+    margin-left: 120px;
+}
+nav div h1{
+    align-content: center;
+    margin-left: 70px;
+    color: blueviolet;
+    width: 208px;
+    height: 56px;
+}
+nav div a{
+    text-decoration: none;
+    color: black;
+    padding: 16px 8px 16px 8px;
+    margin-left: 20px;
+}
+.second{
+    align-content: center;
+}
+button{
+    color: white;
+    background-color: blueviolet;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+section{
+    display: flex;
+}
+img{
+    width: 536px;
+    height:636px ;
+    border-radius: 25px;
+    
+    margin-right: 55px;
+}
+.first{
+    margin-left: 190px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+h2{
+    font-size: 50px;
+}
+.box{
+    display: flex;
+    margin-left: 180px;
+    align-items: center;
+    
+}
+
+.bg-img{
+    height: 200px;
+    width: 400px;
+}
+.four{
+    margin-left: 100px;
+}
+.bg-imge-box{
+  
+    margin-left: 100px;
+    background-color: white;
+    width:400px;
+    margin: 30px;
+    padding: 25px;
+    
+    border: 1px solid whitesmoke;
+}
+
+ .experience{
+    display: flex;
+    gap: 22px;
+    height: 80px;
+    width: 150px;
+    background-color: rgba(237, 216, 255, 0.5);
+    padding-left: 15px;
+    border-radius: 6px;
+    border: 1px solid white;
+    
+    
+    text-align: center;
+    box-shadow: 2px solid white;
+}
+.btn{
+    color: blueviolet;
+    background-color:white;
+    border-color: blueviolet;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-one-flex{
+    display: flex;
+    gap: 20px;
+}
+.div-two-flex{
+    display: flex;
+    gap: 20px;
+}
+.div-one{
+    height: 250px;
+    width: 250px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.div-two{
+    height: 250px;
+    width: 250px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin:15px;
+}
+.div-three{
+    height: 250px;
+    width: 250px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.div-four{
+    height: 250px;
+    width: 250px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 14px;
+    margin:15px;
+
+}
+.work{
+    align-content: center;
+    margin-left: 400px;
+    margin-right: 200px;
+    font-size: 15px;
+}
+.div-flex{
+    margin-right: 300px;
+}
+
+
+
+
+
+.second-sec{
+    display: flex;
+    margin-left: 100px;
+    background-color: white;
+    width: 900px;
+    
+}
+.profession{
+    margin-top: 120px;
+}
+.pargraph{
+    color:black;
+    font-size: 10px;
+    font-weight: 50px;
+    
+} 
+.profession-one{
+    text-align: center;
+   font-size: 40px;
+}
+.btn-one{
+    color: white;
+    background-color: blueviolet;
+    height: 40px;
+    width: 200px;
+    margin-left: 700px;
+    margin-top: 15px;
+    
+}
+.btn-two{
+    color: white;
+    background-color: blueviolet;
+    height: 40px;
+    width: 300px;
+    
+    margin-top: 10px;
+}
+.div-five{
+    width: 1700px;
+    height: 400px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+
+.sec-five{
+    display: flex;
+    margin-right: 450px;
+}
+.div-img{
+    margin-left: 100px;
+    background-color: white;
+    width:400px;
+    margin: 30px;
+    padding: 25px;
+    
+    border: 1px solid whitesmoke;
+}
+.sec-six{
+    display: flex;
+    justify-content: center;
+    width: 1700px;
+    height: 550px;
+    background-color:  rgba(240, 241, 243, 1);
+    padding-top: 100px;
+}
+
+.sec-six-first-div{
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.sec-six-second-div-boder{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    border-radius: 15px;
+    border-left: 6px solid blueviolet;
+}
+.sec-six-second-div{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    border-radius: 15px;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
