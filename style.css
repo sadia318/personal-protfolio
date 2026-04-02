@@ -2,7 +2,7 @@ nav{
     display: flex;
     gap:  400px;
     height: 96px;
-    background-color: white;
+   
     margin-left: 120px;
 }
 nav div h1{
@@ -242,3 +242,18 @@ h2{
     height: 200px;
     margin-left: 50px;
 }
+
+.nav-two{
+  
+    display: flex;
+    gap:  400px;
+    
+   
+    margin-left: 120px;
+    margin-right: 250px;
+    margin-top: 150px;
+}
+.sec-eight{
+    width: 1700px;
+    height: 250px;
+    background-color: rgb(224, 195, 203)};
