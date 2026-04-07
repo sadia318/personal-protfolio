@@ -256,4 +256,191 @@ h2{
 .sec-eight{
     width: 1700px;
     height: 250px;
-    background-color: rgb(224, 195, 203)};
+    background-color: rgb(224, 195, 203);
+}
+
+
+@media (max-width: 600px) {
+    body{
+        background-color: lavender;
+    }
+
+  
+    nav {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        margin-left: 0;
+    }
+     button{
+        width: 80px;
+        height: 50px;
+    }
+
+    .second {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    nav div h1 {
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    
+    section {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+   
+    .one > div {
+        width: 100%;
+        text-align: center;
+    }
+
+    .first {
+        margin-left: 0;
+    }
+
+  
+    img {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+    }
+
+    
+    .box {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-left: 0;
+        gap: 10px;
+    }
+
+    .experience {
+        width: 45%;
+    }
+
+    
+    .second-sec {
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 0;
+        justify-content: center;
+    }
+
+    .profession {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    
+    .div-one-flex,
+    .div-two-flex {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .div-one,
+    .div-two,
+    .div-three,
+    .div-four {
+        width: 90%;
+    }
+
+    .work {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .div-flex {
+        margin-right: 0;
+    }
+
+   
+    .four > div {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .bg-imge-box {
+        width: 90%;
+        margin: 10px 0;
+    }
+
+    .btn-one {
+        margin-left: 0;
+        display: block;
+        margin: 20px auto;
+    }
+
+    .div-five {
+        width: 100%;
+        height: auto;
+        padding: 30px 10px;
+    }
+
+    
+    .sec-five {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-right: 0;
+    }
+
+    .div-img {
+        width: 90%;
+        margin-left: 0;
+    }
+
+    
+    .sec-six {
+        flex-wrap: wrap;
+        width: 100%;
+        height: auto;
+        justify-content: center;
+    }
+
+    .sec-six-first-div {
+        width: 100%;
+        text-align: center;
+        margin-right: 0;
+    }
+
+    .sec-six-second-div,
+    .sec-six-second-div-boder {
+        width: 90%;
+        margin-bottom: 10px;
+    }
+
+    .sec-seven {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .logo {
+        width: 100px;
+        height: auto;
+    }
+
+    .nav-two {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        margin: 20px;
+    }
+
+    .sec-eight {
+        width: 100%;
+        height: 200px;
+        background-color: darkgray;
+    }
+}
+
+
+
+
